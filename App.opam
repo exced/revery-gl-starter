@@ -1,0 +1,7 @@
+opam-version: "1.2"
+version: "dev"
+maintainer: "thomas.barras26@gmail.com"
+author: ["Thomas Barras"]
+build: [
+
+]
